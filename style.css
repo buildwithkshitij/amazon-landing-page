@@ -39,15 +39,54 @@ box 2
     color: #cccccc;
     font-size: 0.8rem;
     margin-left: 20px;
+    /* Adjust the margin as needed */
 
 }
 
 .add-second {
     font-size: 1rem;
-    margin-left: 20px;
+    margin-left: 12px;
 }
 
-.add icon {
+.add-icon {
     display: flex;
+    /* Use flexbox to align items */
     align-items: center;
+    /* Vertically center the icon and text */
+}
+
+/**
+box 3
+**/
+.nav-search {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: red;
+    width: 620px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.search-select {
+    background-color: #f3f3f3;
+    width: 50px;
+    text-align: center;
+    border-radius: 4px 0 0 4px;
+    border: none;
+}
+
+.search-input {
+    width: 100%;
+    font-size: 1rem;
+    border: none;
+}
+
+.search-icon {
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+    background-color: #f97e1a;
+    border-radius: 0 4px 4px 0;
 }
