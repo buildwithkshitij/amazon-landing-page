@@ -10,6 +10,7 @@
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 }
 
 .nav-logo {
@@ -87,6 +88,17 @@ box 3
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
-    background-color: #f97e1a;
+    background-color: #febd69;
     border-radius: 0 4px 4px 0;
+    color: black;
+}
+
+/** Box 4 **/
+span {
+    font-size: 0.7rem;
+    color: #cccccc;
+}
+
+.nav-second{
+    font-size: 0.9rem;
 }
