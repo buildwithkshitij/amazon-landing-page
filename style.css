@@ -93,13 +93,59 @@ box 3
     color: black;
 }
 
+.nav-search:hover {
+    box-shadow: 0 0 50px #febd69;
+}
+
 /** Box 4 **/
 span {
     font-size: 0.7rem;
     color: #cccccc;
 }
 
-.nav-second{
+.nav-second {
     font-size: 0.9rem;
     font-weight: 700;
+}
+
+/** Box 6 **/
+.nav-cart i {
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.nav-cart {
+    font-size: 0.85rem;
+    font-weight: 700;
+}
+
+/** Panel **/
+.panel {
+    height: 40px;
+    background-color: #232f3e;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.panel-ops p {
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.panel-ops {
+    width: 70%;
+    font-size: 0.90rem;
+}
+
+.panel-deals {
+    width: 30%;
+    font-size: 0.95rem;;
+    margin-right: 5px;
+}
+
+.panel-all {
+    display: flex;
+    align-items: center;
 }
