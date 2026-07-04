@@ -131,21 +131,28 @@ span {
 
 .panel-ops p {
     display: inline-block;
-    margin-left: 10px;
+    margin-left: 15px;
 }
 
 .panel-ops {
-    width: 70%;
+    width: 110%;
     font-size: 0.90rem;
 }
 
 .panel-deals {
     width: 30%;
-    font-size: 0.95rem;;
-    margin-right: 5px;
+    font-size: 1rem;
+    font-weight: 700;
 }
 
 .panel-all {
     display: flex;
     align-items: center;
+}
+
+/** Hero Section **/
+.hero-section {
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+    height: 600px;
 }
