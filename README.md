@@ -60,6 +60,3 @@ It is not affiliated with or endorsed by Amazon.
 ## Author
 
 Kshitij Mohan
-## Author
-
-Kshitij Mohan
