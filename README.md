@@ -35,7 +35,13 @@ navigation bars, product cards, and footer design.
 
 ## Screenshots
 
-Add your website screenshot here after uploading it.
+<img width="1882" height="907" alt="amazon landing page 1" src="https://github.com/user-attachments/assets/583d1ef7-6c83-4927-819e-f641056e0544" />
+
+<img width="1881" height="911" alt="amazom landing page 2" src="https://github.com/user-attachments/assets/b82f33a0-63b7-440b-aee8-f5ca81809fb4" />
+
+<img width="1886" height="903" alt="amazon landing page 3" src="https://github.com/user-attachments/assets/8a496a56-c441-4865-a1ce-07e71a4647dc" />
+
+
 
 ## Learning Outcomes
 
